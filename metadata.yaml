@@ -17,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/41340
     wikipedia: http://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41751#Travels-in-Central-Asia
 gutenberg_issued: '2013-01-01'
 gutenberg_type: Text
 identifiers:
