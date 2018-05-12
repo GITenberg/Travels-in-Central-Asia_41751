@@ -1,0 +1,36 @@
+_repo: Travels-in-Central-Asia_41751
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Vámbéry, Ármin
+    aliases:
+    - Vamberger, Hermann
+    - Vamberi, Armin German
+    - Vambery, Armin
+    - Bamberger, Hermann
+    birthdate: 1832
+    deathdate: 1913
+    gutenberg_agent_id: '41340'
+    url: http://www.gutenberg.org/2009/agents/41340
+    wikipedia: http://en.wikipedia.org/wiki/%C3%81rmin_V%C3%A1mb%C3%A9ry
+description: ''
+gutenberg_issued: '2013-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41751'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Vámbéry, Ármin, 1832-1913 -- Travel -- Asia, Central'
+- !lcc 'DK'
+- !lcc 'DS'
+- !lcsh 'Asia, Central -- Description and travel'
+title: "Travels in Central Asia\r\nBeing the Account of a Journey from Teheran Across\
+  \ the Turkoman Desert on the Eastern Shore of the Caspian to Khiva, Bokhara, and\
+  \ Samarcand"
+url: http://www.gutenberg.org/ebooks/41751
